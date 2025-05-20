@@ -87,13 +87,11 @@ LinkedIn | GitHub
 This project is licensed under the MIT License — feel free to use and modify it.
 
 🙌 Acknowledgements
-Bootstrap
 
-React Router
-
-DummyJSON
-
-OpenAI ChatGPT — for code guidance
+-**Bootstrap**
+-**React Router**
+-**DummyJSON**
+-**OpenAI ChatGPT — for code guidance**
 
 ⭐️ Show Your Support
 If you like this project, please consider ⭐️ starring the repo — it helps others discover it too!
