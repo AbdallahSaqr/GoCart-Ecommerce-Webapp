@@ -66,6 +66,8 @@ npm install
 
 # 4. Run the development server
 npm run dev
+```
+
 🧪 Test Data Source
 Products API: DummyJSON API
 
